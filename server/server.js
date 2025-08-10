@@ -19,7 +19,7 @@ await connectDB(); // Connect to the database
 await connectCloudinary();
 
 //Allow multiple origins
-const allowedOrigins = ['http://localhost:5173'];
+const allowedOrigins = ['http://localhost:5173', 'https://green-cart-clwl.vercel.app'];
 
 // Middleware to parse JSON bodies
 app.use(express.json());// All request coming to the server will be parsed as JSON
