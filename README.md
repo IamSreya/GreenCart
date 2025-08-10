@@ -15,7 +15,10 @@ GreenCart is a full-stack grocery shopping application that allows users to brow
 - **Responsive UI** — Works across desktop and mobile, reusable components  
 - **Notifications** — Toast feedback for actions (success / error)
 
+- **Live Website** - https://green-cart-clwl.vercel.app
+
 ---
+
 
 ## 🧩 Tech Stack
 
