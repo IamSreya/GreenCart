@@ -40,5 +40,3 @@ GreenCart is a full-stack grocery shopping application that allows users to brow
 
 ---
 
-## 📁 Repo structure (suggested)
-
